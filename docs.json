@@ -9,12 +9,12 @@
     },
     "fonts": {
         "heading": {
-            "family": "Playfair Display",
+            "family": "manrope",
             "weight": 700
         },
         "body": {
-            "family": "Inter",
-            "weight": 700
+            "family": "manrope",
+            "weight": 400
         }
     },
     "favicon": "/icon.svg",
