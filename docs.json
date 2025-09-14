@@ -90,7 +90,7 @@
                 {
                     "anchor": "Scanner",
                     "href": "https://wallet.deziklabs.com/scanner-app",
-                    "icon": "camera"
+                    "icon": "qrcode"
                 },
                 {
                     "anchor": "Dezik Bot",
