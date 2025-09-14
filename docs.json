@@ -9,12 +9,12 @@
     },
     "fonts": {
         "heading": {
-            "family": "manrope",
-            "weight": 700
+            "family": "aeonik-bold",
+            "format": "woff2"
         },
         "body": {
-            "family": "manrope",
-            "weight": 400
+            "family": "aeronik_light",
+            "format": "woff2"
         }
     },
     "favicon": "/icon.svg",
