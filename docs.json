@@ -82,17 +82,17 @@
         "global": {
             "anchors": [
                 {
-                    "anchor": "Dezik Wallet Dashboard",
+                    "anchor": "Dashboard",
                     "href": "https://wallet.deziklabs.com",
                     "icon": "house"
                 },
                 {
-                    "anchor": "Dezik Scanner App",
+                    "anchor": "Scanner",
                     "href": "https://wallet.deziklabs.com/scanner-app",
                     "icon": "camera"
                 },
                 {
-                    "anchor": "WhatsApp",
+                    "anchor": "Dezik Bot",
                     "href": "https://wa.me/593987361616",
                     "icon": "whatsapp"
                 }
