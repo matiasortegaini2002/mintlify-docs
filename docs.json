@@ -95,7 +95,7 @@
     }
   },
   "logo": {
-    "light": "/logo/white.svg",
+    "light": "/logo/red.svg",
     "dark": "/logo/red.svg"
   },
   "navbar": {
