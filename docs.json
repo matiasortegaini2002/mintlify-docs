@@ -29,15 +29,20 @@
                             "index",
                             "quickstart",
                             "development",
-                            "sobredezik",
-                            "test"
+                            "sobredezik"
                         ]
                     },
                     {
                         "group": "Tipos de tarjetas",
                         "pages": [
                             "typesofcards/tarjetacashback",
-                            "typesofcards/tarjetacupon"
+                            "typesofcards/tarjetacupon",
+                            "typesofcards/tarjetadescuento",
+                            "typesofcards/tarjetamiembro",
+                            "typesofcards/tarjetamultipass",
+                            "typesofcards/tarjetarecompensas",
+                            "typesofcards/tarjetaregalo",
+                            "typesofcards/tarjetastickers"
                         ]
                     },
                     {
