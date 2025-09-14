@@ -7,6 +7,18 @@
     "light": "#f22d36",
     "dark": "#f22d36"
   },
+  {
+  "fonts": {
+    "heading": {
+      "family": "Playfair Display",
+      "weight": 700
+    },
+    "body": {
+      "family": "Inter",
+      "weight": 400
+    }
+  }
+}
   "favicon": "/icon.svg",
   "navigation": {
     "tabs": [
