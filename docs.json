@@ -4,8 +4,8 @@
   "name": "Documentación Dezik Labs",
   "colors": {
     "primary": "#f22d36",
-    "light": "#ff5c68",
-    "dark": "#dd1b2a"
+    "light": "#f22d36",
+    "dark": "#f22d36"
   },
   "favicon": "/icon.svg",
   "navigation": {
