@@ -1,6 +1,6 @@
 {
     "$schema": "https://mintlify.com/docs.json",
-    "theme": "maple",
+    "theme": "mint",
     "name": "Documentación Dezik Labs",
     "colors": {
         "primary": "#f22d36",
