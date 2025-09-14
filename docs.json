@@ -1,145 +1,143 @@
 {
-  "$schema": "https://mintlify.com/docs.json",
-  "theme": "maple",
-  "name": "Documentación Dezik Labs",
-  "colors": {
-    "primary": "#f22d36",
-    "light": "#f22d36",
-    "dark": "#f22d36"
-  },
-  {
-  "fonts": {
-    "heading": {
-      "family": "Playfair Display",
-      "weight": 700
+    "$schema": "https://mintlify.com/docs.json",
+    "theme": "maple",
+    "name": "Documentación Dezik Labs",
+    "colors": {
+        "primary": "#f22d36",
+        "light": "#f22d36",
+        "dark": "#f22d36"
     },
-    "body": {
-      "family": "Inter",
-      "weight": 400
-    }
-  }
-}
-  "favicon": "/icon.svg",
-  "navigation": {
-    "tabs": [
-      {
-        "tab": "Dezik Labs",
-        "groups": [
-          {
-            "group": "Empezando",
-            "pages": [
-              "index",
-              "quickstart",
-              "development",
-              "sobredezik"
-            ]
-          },
-          {
-            "group": "Customization",
-            "pages": [
-              "essentials/settings",
-              "essentials/navigation"
-            ]
-          },
-          {
-            "group": "Writing content",
-            "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/reusable-snippets"
-            ]
-          },
-          {
-            "group": "AI tools",
-            "pages": [
-              "ai-tools/cursor",
-              "ai-tools/claude-code",
-              "ai-tools/windsurf"
-            ]
-          }
-        ]
-      },
-      {
-        "tab": "Dezik Wallet",
-        "groups": [
-          {
-            "group": "API documentation",
-            "pages": [
-              "api-reference/introduction"
-            ]
-          },
-          {
-            "group": "Endpoint examples",
-            "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete",
-              "api-reference/endpoint/webhook"
-            ]
-          }
-        ]
-      }
-    ],
-    "global": {
-      "anchors": [
-        {
-          "anchor": "Web Dezik Labs",
-          "href": "https://deziklabs.com",
-          "icon": "globe"
+    "fonts": {
+        "heading": {
+            "family": "Playfair Display",
+            "weight": 700
         },
-        {
-          "anchor": "Dezik Wallet Dashboard",
-          "href": "https://wallet.deziklabs.com",
-          "icon": "house"
-        },
-        {
-          "anchor": "Dezik Scanner App",
-          "href": "https://wallet.deziklabs.com/scanner-app",
-          "icon": "camera"
-        },
-        {
-          "anchor": "WhatsApp",
-          "href": "https://wa.me/593987361616",
-          "icon": "whatsapp"
+        "body": {
+            "family": "Inter",
+            "weight": 700
         }
-      ]
+    },
+    "favicon": "/icon.svg",
+    "navigation": {
+        "tabs": [
+            {
+                "tab": "Dezik Labs",
+                "groups": [
+                    {
+                        "group": "Empezando",
+                        "pages": [
+                            "index",
+                            "quickstart",
+                            "development",
+                            "sobredezik"
+                        ]
+                    },
+                    {
+                        "group": "Customization",
+                        "pages": [
+                            "essentials/settings",
+                            "essentials/navigation"
+                        ]
+                    },
+                    {
+                        "group": "Writing content",
+                        "pages": [
+                            "essentials/markdown",
+                            "essentials/code",
+                            "essentials/images",
+                            "essentials/reusable-snippets"
+                        ]
+                    },
+                    {
+                        "group": "AI tools",
+                        "pages": [
+                            "ai-tools/cursor",
+                            "ai-tools/claude-code",
+                            "ai-tools/windsurf"
+                        ]
+                    }
+                ]
+            },
+            {
+                "tab": "Dezik Wallet",
+                "groups": [
+                    {
+                        "group": "API documentation",
+                        "pages": [
+                            "api-reference/introduction"
+                        ]
+                    },
+                    {
+                        "group": "Endpoint examples",
+                        "pages": [
+                            "api-reference/endpoint/get",
+                            "api-reference/endpoint/create",
+                            "api-reference/endpoint/delete",
+                            "api-reference/endpoint/webhook"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "global": {
+            "anchors": [
+                {
+                    "anchor": "Web Dezik Labs",
+                    "href": "https://deziklabs.com",
+                    "icon": "globe"
+                },
+                {
+                    "anchor": "Dezik Wallet Dashboard",
+                    "href": "https://wallet.deziklabs.com",
+                    "icon": "house"
+                },
+                {
+                    "anchor": "Dezik Scanner App",
+                    "href": "https://wallet.deziklabs.com/scanner-app",
+                    "icon": "camera"
+                },
+                {
+                    "anchor": "WhatsApp",
+                    "href": "https://wa.me/593987361616",
+                    "icon": "whatsapp"
+                }
+            ]
+        }
+    },
+    "logo": {
+        "light": "/logo/red.svg",
+        "dark": "/logo/red.svg"
+    },
+    "navbar": {
+        "links": [
+            {
+                "label": "Support",
+                "href": "mailto:developer@deziklabs.com"
+            }
+        ],
+        "primary": {
+            "type": "button",
+            "label": "Dashboard",
+            "href": "https://dashboard.mintlify.com"
+        }
+    },
+    "contextual": {
+        "options": [
+            "copy",
+            "view",
+            "chatgpt",
+            "claude",
+            "perplexity",
+            "mcp",
+            "cursor",
+            "vscode"
+        ]
+    },
+    "footer": {
+        "socials": {
+            "x": "https://x.com/mintlify",
+            "github": "https://github.com/mintlify",
+            "linkedin": "https://linkedin.com/company/mintlify"
+        }
     }
-  },
-  "logo": {
-    "light": "/logo/red.svg",
-    "dark": "/logo/red.svg"
-  },
-  "navbar": {
-    "links": [
-      {
-        "label": "Support",
-        "href": "mailto:developer@deziklabs.com"
-      }
-    ],
-    "primary": {
-      "type": "button",
-      "label": "Dashboard",
-      "href": "https://dashboard.mintlify.com"
-    }
-  },
-  "contextual": {
-    "options": [
-     "copy",
-     "view",
-     "chatgpt",
-     "claude",
-     "perplexity",
-     "mcp",
-     "cursor",
-     "vscode"
-   ]
-  },
-  "footer": {
-    "socials": {
-      "x": "https://x.com/mintlify",
-      "github": "https://github.com/mintlify",
-      "linkedin": "https://linkedin.com/company/mintlify"
-    }
-  }
 }
