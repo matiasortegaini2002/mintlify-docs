@@ -74,21 +74,21 @@
         {
           "anchor": "Web Dezik Labs",
           "href": "https://mintlify.com/docs",
-          "icon": "website"
+          "icon": "globe"
         },
         {
           "anchor": "Dezik Wallet Dashboard",
           "href": "https://mintlify.com/community",
-          "icon": "dashboard"
+          "icon": "house"
         },
         {
           "anchor": "Dezik Scanner App",
           "href": "https://wallet.deziklabs.com/scanner-app",
-          "icon": "scanner"
+          "icon": "camera"
         },
         {
           "anchor": "WhatsApp",
-          "href": "wa.me/593987361616",
+          "href": "https://wa.me/593987361616",
           "icon": "whatsapp"
         }
       ]
