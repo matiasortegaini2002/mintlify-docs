@@ -9,13 +9,11 @@
     },
     "fonts": {
         "heading": {
-            "family": "aeonik-light",
-            "weight": 700,
+            "family": "aeonik-bold",
             "format": "woff2"
         },
         "body": {
             "family": "aeronik-light",
-            "weight": 300,
             "format": "woff2"
         }
     },
