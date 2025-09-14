@@ -9,12 +9,14 @@
     },
     "fonts": {
         "heading": {
-            "family": "aeonik-light.woff2",
-            "weight": 700
+            "family": "aeonik-light",
+            "weight": 700,
+            "format": "woff2"
         },
         "body": {
-            "family": "aeronik-light.woff2",
-            "weight": 400
+            "family": "aeronik-light",
+            "weight": 400,
+            "format": "woff2"
         }
     },
     "favicon": "/icon.svg",
