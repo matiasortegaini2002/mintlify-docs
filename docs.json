@@ -4,21 +4,22 @@
   "name": "Mint Starter Kit",
   "colors": {
     "primary": "#f22d36",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "light": "#ff5c68",
+    "dark": "#dd1b2a"
   },
   "favicon": "/favicon.svg",
   "navigation": {
     "tabs": [
       {
-        "tab": "Guides",
+        "tab": "Dezik Labs",
         "groups": [
           {
-            "group": "Getting started",
+            "group": "Empezando",
             "pages": [
               "index",
               "quickstart",
               "development"
+              "sobredezik"
             ]
           },
           {
@@ -48,7 +49,7 @@
         ]
       },
       {
-        "tab": "API reference",
+        "tab": "Dezik Wallet",
         "groups": [
           {
             "group": "API documentation",
